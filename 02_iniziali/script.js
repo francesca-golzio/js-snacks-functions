@@ -4,7 +4,6 @@
 
 const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
-let initials = [];
 
 // Dichiara la funzione qui.
 
